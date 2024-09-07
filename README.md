@@ -1,6 +1,6 @@
 <h2> Olá, Mundo! 👋</h2>
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU4OWYzYmdwMmx1M2g5YXpieHA4dHBlODM0cGZwMWpiNWMyZjgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDAzMndveWk3eTg3eGlpYmZtcnU4N284ZG1yMWNtM3cyNnRnYmVuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvPV8PE3sqZFhX2R9l/giphy.gif" width="400"/>
 
 <h3> 💻 Quem sou eu: </h3>
 
@@ -18,18 +18,9 @@
 
 <br>
 
-## 📈 Status no GitHub 
-<div >
-  <a href="https://github.com/seu-usuario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&&theme=aura&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=aura"/>
-</div>
 
 ## Principais Tecnologias que uso no dia a dia
-<div style="display: inline_block"> </br> 
-  <img align="center" alt="python" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-  <img align="center" alt="R" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" alt="sql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
+<div style="display: inline_block"> </br>     
   <img align="center" alt="html" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 </div>
